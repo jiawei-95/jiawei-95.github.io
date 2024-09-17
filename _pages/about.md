@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a third-year Ph.D student supervised by Associate Professor [Yulei Sui](https://yuleisui.github.io) at School of Computer Science and Engineering, University of New South Wales.
+I'm a third-year Ph.D student supervised by Scientia Associate Professor [Yulei Sui](https://yuleisui.github.io) at School of Computer Science and Engineering, University of New South Wales.
 
-My research interests include static analysis and formal verification (especially DNN). 
+My research interests encompass static analysis and formal verification, with a particular focus on deep neural networks (DNNs).
 
 <!--I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
@@ -34,9 +34,13 @@ My research interests include static analysis and formal verification (especiall
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Fast Graph Simplification for Path-Sensitive Typestate Analysis through Tempo-Spatial Multi-Point Slicing](https://dl.acm.org/doi/10.1145/3643749)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Xiao Cheng, **Jiawei Ren**, Yulei Sui
+
+[Dynamic Transitive Closure-based Static Analysis through the Lens of Quantum Search](https://dl.acm.org/doi/10.1145/3644389)
+
+**Jiawei Ren**, Yulei Sui, Xiao Cheng, Yuan Feng, Jianjun Zhao
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
