@@ -33,18 +33,13 @@ My research interests includes static analysis and formal verification, with a p
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box-text' markdown="1">
-
-[Fast Graph Simplification for Path-Sensitive Typestate Analysis through Tempo-Spatial Multi-Point Slicing](https://dl.acm.org/doi/10.1145/3643749)
-
-Xiao Cheng, **Jiawei Ren**, Yulei Sui
-
-32ed ACM International Conference on the Foundations of Software Engineering (FSE '24) 
-
-[Dynamic Transitive Closure-based Static Analysis through the Lens of Quantum Search](https://dl.acm.org/doi/10.1145/3644389)
-
-**Jiawei Ren**, Yulei Sui, Xiao Cheng, Yuan Feng, Jianjun Zhao
-
-ACM Transactions on Software Engineering and Methodology (TOSEM)
+1. [Fast Graph Simplification for Path-Sensitive Typestate Analysis through Tempo-Spatial Multi-Point Slicing](https://dl.acm.org/doi/10.1145/3643749)
+   Xiao Cheng, **Jiawei Ren**, Yulei Sui
+   32nd ACM International Conference on the Foundations of Software Engineering (FSE '24)
+2. [Dynamic Transitive Closure-based Static Analysis through the Lens of Quantum Search](https://dl.acm.org/doi/10.1145/3644389)
+   **Jiawei Ren**, Yulei Sui, Xiao Cheng, Yuan Feng, Jianjun Zhao
+   ACM Transactions on Software Engineering and Methodology (TOSEM)
+</div>
 
 <!--
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
