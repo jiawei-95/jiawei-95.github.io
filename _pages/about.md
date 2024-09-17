@@ -26,7 +26,7 @@ My research interests includes static analysis and formal verification, with a p
 
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 Our work on path-sensitive typestate analysis accepted at FSE 2024.. 
+- *2024.01*: &nbsp;🎉🎉 Our work on path-sensitive typestate analysis accepted at FSE 2024. 
 - *2024.01*: &nbsp;🎉🎉 Our work on quantum speedups on dynamic transitive closure-based static analysis accepted at TOSEM.
 
 # 📝 Publications 
@@ -54,7 +54,7 @@ ACM Transactions on Software Engineering and Methodology (TOSEM)
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
+ 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
@@ -63,10 +63,10 @@ ACM Transactions on Software Engineering and Methodology (TOSEM)
 - *2023.05 - now*, Doctor of Philosophy, Computer Science and Engineering, UNSW Sydney. 
 
 <!--
-# 💬 Invited Talks
+ 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
+ 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 -->
