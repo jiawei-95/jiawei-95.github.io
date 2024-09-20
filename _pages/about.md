@@ -19,7 +19,7 @@ redirect_from:
 
 I'm a second-year PhD student supervised by Scientia Associate Professor [Yulei Sui](https://yuleisui.github.io) at School of Computer Science and Engineering, University of New South Wales.
 
-My research interests includes static analysis and formal verification, with a particular focus on deep neural networks (DNNs).
+My research interests include static analysis and formal verification, particularly focusing on the verification of deep neural networks (DNNs).
 
 <!--I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
