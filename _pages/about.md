@@ -26,8 +26,8 @@ My research interests include static analysis and formal verification, particula
 
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 Our work on path-sensitive typestate analysis accepted at FSE 2024. 
-- *2024.01*: &nbsp;🎉🎉 Our work on quantum speedups on dynamic transitive closure-based static analysis accepted at TOSEM.
+- *2024.01*: &nbsp;🎉🎉 Our work on path-sensitive typestate analysis is accepted by FSE 2024. 
+- *2024.01*: &nbsp;🎉🎉 Our work on quantum speedups on dynamic transitive closure-based static analysis is accepted by TOSEM.
 
 # 📝 Publications 
 
