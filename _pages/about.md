@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a second-year PhD student supervised by Scientia Associate Professor [Yulei Sui](https://yuleisui.github.io) at School of Computer Science and Engineering, University of New South Wales.
+I'm a third-year PhD student supervised by Scientia Associate Professor [Yulei Sui](https://yuleisui.github.io) at School of Computer Science and Engineering, University of New South Wales.
 
 My research interests include static analysis and formal verification, particularly focusing on the verification of deep neural networks (DNNs).
 
