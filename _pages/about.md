@@ -67,6 +67,7 @@ My research interests include static analysis and formal verification, particula
 - Reviewer of SAS 2025, TSE.
 
 <!--
+deleted
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 -->
 
