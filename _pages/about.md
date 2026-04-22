@@ -26,6 +26,7 @@ My research interests include static analysis and formal verification, particula
 
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉🎉 Our work on mining verdict boundaries for DNN verification is accepted by FM 2026. 
 - *2024.01*: &nbsp;🎉🎉 Our work on path-sensitive typestate analysis is accepted by FSE 2024. 
 - *2024.01*: &nbsp;🎉🎉 Our work on quantum speedups on dynamic transitive closure-based static analysis is accepted by TOSEM.
 
@@ -33,10 +34,13 @@ My research interests include static analysis and formal verification, particula
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box-text' markdown="1">
-1. [Fast Graph Simplification for Path-Sensitive Typestate Analysis through Tempo-Spatial Multi-Point Slicing](https://dl.acm.org/doi/10.1145/3643749)<br>
+1. [Mining Verdict Boundaries for Neural Network Verification](https://conf.researchr.org/details/fm-2026/fm-2026-research-paper/2/Mining-Verdict-Boundaries-for-Neural-Network-Verification)<br>
+   **Jiawei Ren**, Guanqin Zhang, Zhenya Zhang, Yulei Sui<br>
+   The 27th International Symposium on Formal Methods (FM '26)<br><br>
+2. [Fast Graph Simplification for Path-Sensitive Typestate Analysis through Tempo-Spatial Multi-Point Slicing](https://dl.acm.org/doi/10.1145/3643749)<br>
    Xiao Cheng, **Jiawei Ren**, Yulei Sui<br>
    32nd ACM International Conference on the Foundations of Software Engineering (FSE '24)<br><br>
-2. [Dynamic Transitive Closure-based Static Analysis through the Lens of Quantum Search](https://dl.acm.org/doi/10.1145/3644389)<br>
+3. [Dynamic Transitive Closure-based Static Analysis through the Lens of Quantum Search](https://dl.acm.org/doi/10.1145/3644389)<br>
    **Jiawei Ren**, Yulei Sui, Xiao Cheng, Yuan Feng, Jianjun Zhao<br>
    ACM Transactions on Software Engineering and Methodology (TOSEM)<br><br>
 </div>
