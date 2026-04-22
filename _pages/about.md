@@ -67,7 +67,7 @@ My research interests include static analysis and formal verification, particula
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 # 💻 Experiences
-- Tutor and lab demonstrator, [41184 Software Analysis Studio](https://coursehandbook.uts.edu.au/subject/2025/41128), UTS, 2024 and 2025.
+- Tutor and lab demonstrator, [41184 Software Analysis Studio](https://coursehandbook.uts.edu.au/subject/2025/41128), UTS, 2024, 2025 and 2026.
 - Reviewer of SAS 2025, TSE.
 
 <!--
